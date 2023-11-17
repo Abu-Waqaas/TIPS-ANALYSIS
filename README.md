@@ -20,10 +20,14 @@ The Data was gotten from Kaggle as a CSV File
  ![4](https://github.com/Abu-Waqaas/TIPS-ANALYSIS/assets/106377378/14543651-2603-4f71-8122-3850ed9630d0)
 
 
-
 5. Customers population 224
 
 ![3](https://github.com/Abu-Waqaas/TIPS-ANALYSIS/assets/106377378/5b2af374-1eec-4783-8ad9-99feaa9cb6b9)
+
+6. The restaurant received more orders on  Saturday than the other days.
+
+   ![order](https://github.com/Abu-Waqaas/TIPS-ANALYSIS/assets/106377378/041486a3-6598-4edc-b4ae-45be7afdc00b)
+
 
 
 
